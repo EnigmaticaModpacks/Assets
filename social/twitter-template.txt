@@ -1,0 +1,5 @@
+#Enigmatica6 0.5.26 beta is now available on @CurseForge!
+
+📥Download: https://www.curseforge.com/minecraft/modpacks/enigmatica6/files/3662391
+
+📘Changelog: https://github.com/EnigmaticaModpacks/Enigmatica6/blob/master/changelogs/CHANGELOG.md
